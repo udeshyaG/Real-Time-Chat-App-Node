@@ -1,4 +1,4 @@
-### Real Time Chat Application using NodeJS and Socket.io 
+### Real Time Chat Application using NodeJS and Socket.io   [Click Here](https://udeshya-real-time-chat-app.herokuapp.com) to view app
 
 # Technology Used 🧪
   - Node JS (as the backend) 🔧
