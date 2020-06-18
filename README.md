@@ -3,6 +3,7 @@
 # Technology Used 🧪
   - Node JS (as the backend) 🔧
   - Socket.io (for real time functionality)
+  - Heroku (for deployment)
   - Mustache (templating engine)
   - Moment JS (a javascript library for formatting time) ⌚
   
